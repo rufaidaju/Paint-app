@@ -1,11 +1,11 @@
 import React from 'react';
-import UseStateHook from './components/UseStateHook'
+import Paint from './components/Paint'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <UseStateHook />
+     <Paint />
     </div>
   );
 }
