@@ -1,5 +1,5 @@
 import React from 'react';
-import Paint from './components/Paint'
+import Paint from './App/components/Paint'
 import './App.css';
 
 function App() {
